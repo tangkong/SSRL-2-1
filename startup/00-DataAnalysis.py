@@ -92,3 +92,5 @@ def show_scan(ind=-1, dep_subkey='channel1_rois_', indep_subkey='s_stage'):
     except KeyError:
         print(e)
         return
+
+

@@ -1,0 +1,101 @@
+INFO:root:############################################################ startup
+INFO:root:logging started
+INFO:root:logging level = 10
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:ophyd:Installing event dispatcher
+DEBUG:ophyd:Callback thread metadata started
+DEBUG:ophyd:Callback thread metadata attaching to context 3031114987216
+DEBUG:ophyd:Callback thread monitor started
+DEBUG:ophyd:Callback thread monitor attaching to context 3031114987216
+DEBUG:ophyd:Callback thread get_put started
+DEBUG:ophyd:Callback thread get_put attaching to context 3031114987216
+DEBUG:ophyd:Callback thread util0 started
+DEBUG:ophyd:Callback thread util0 attaching to context 3031114987216
+DEBUG:ophyd:Callback thread util1 started
+DEBUG:ophyd:Callback thread util1 attaching to context 3031114987216
+DEBUG:ophyd:Callback thread util2 started
+DEBUG:ophyd:Callback thread util2 attaching to context 3031114987216
+DEBUG:ophyd:Callback thread util3 started
+DEBUG:ophyd:Callback thread util3 attaching to context 3031114987216
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+INFO:root:############################################################ startup
+INFO:root:logging started
+INFO:root:logging level = 10
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+INFO:root:############################################################ startup
+INFO:root:logging started
+INFO:root:logging level = 10
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:ophyd:Installing event dispatcher
+DEBUG:ophyd:Callback thread metadata started
+DEBUG:ophyd:Callback thread metadata attaching to context 2455929804720
+DEBUG:ophyd:Callback thread monitor started
+DEBUG:ophyd:Callback thread monitor attaching to context 2455929804720
+DEBUG:ophyd:Callback thread get_put started
+DEBUG:ophyd:Callback thread get_put attaching to context 2455929804720
+DEBUG:ophyd:Callback thread util0 started
+DEBUG:ophyd:Callback thread util0 attaching to context 2455929804720
+DEBUG:ophyd:Callback thread util1 started
+DEBUG:ophyd:Callback thread util1 attaching to context 2455929804720
+DEBUG:ophyd:Callback thread util2 started
+DEBUG:ophyd:Callback thread util2 attaching to context 2455929804720
+DEBUG:ophyd:Callback thread util3 started
+DEBUG:ophyd:Callback thread util3 attaching to context 2455929804720
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
+DEBUG:ophyd.event_dispatcher:All EventDispatch queues are empty.
